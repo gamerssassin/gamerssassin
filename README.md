@@ -1,11 +1,10 @@
-<h1 align="center">Hello there 👋, I'm Gamerssassin</h1>
+<h1 align="center">Hello there 👋, I'm Rohail</h1>
 <h3 align="center">Just your average CS Student.</h3>
-
-<p align="left"> <a href="https://twitter.com/gamerssassin" target="blank"><img src="https://img.shields.io/twitter/follow/gamerssassin?logo=twitter&style=for-the-badge" alt="gamerssassin" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gamerssassin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamerssassin" height="30" width="40" /></a>
+<a href="https://discord.gg/Gamerssassin#9349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gamerssassin#9349" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
